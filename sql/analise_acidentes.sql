@@ -1,0 +1,3 @@
+-- Projeto: Análise de Acidentes em Rodovias Federais
+-- Período: 2020 a 2025
+-- Objetivo: consultas SQL para análise dos dados da PRF.
