@@ -58,5 +58,5 @@ O dashboard interativo desenvolvido no Looker Studio será disponibilizado aqui.
 
 ## Prévia do dashboard
 
-![Dashboard de acidentes nas rodovias federais](images/dashboard-visao-geral.png)
+![Dashboard de acidentes nas rodovias federais](images/dashboard.png)
 
