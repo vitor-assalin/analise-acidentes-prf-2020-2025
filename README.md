@@ -60,3 +60,11 @@ O dashboard interativo desenvolvido no Looker Studio será disponibilizado aqui.
 
 ![Dashboard de acidentes nas rodovias federais](images/dashboard.png)
 
+
+## Relatório completo
+
+O relatório apresenta a problemática, as fontes de dados, a metodologia, os principais resultados da análise e as conclusões do projeto.
+
+[Acessar o relatório em PDF](docs/Relatorio_Projeto_Acidentes_PRF_2020_2025.pdf)
+
+
